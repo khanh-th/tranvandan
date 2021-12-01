@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Hướng dẫn crack win nhanh gọn
 
-You can use the [editor on GitHub](https://github.com/khanhthk/tranvandan/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Tải file crack về và giải nén với mật khẩu là `1234`
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+https://github.com/massgravel/Microsoft-Activation-Scripts/releases/download/1.4/MAS_1.4_Password_1234.7z
 
-### Markdown
+![](./2021-12-01_20-19.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Vào folder All-In-One-Version vừa giải nén xong
 
-```markdown
-Syntax highlighted code block
+![](./2021-12-01_20-23.png)
 
-# Header 1
-## Header 2
-### Header 3
+### Chạy file `.cmd` để crack win. Nếu win 10,11 thì có thể chọn dòng 2 (HWID Activation). Các win còn lại chọn dòng 4 (KMS Activation) 
 
-- Bulleted
-- List
+![](./2021-12-01_20-26.png) 
 
-1. Numbered
-2. List
+### Chọn dòng 1 (Active -Windows /Server /Office) để crack win
 
-**Bold** and _Italic_ and `Code` text
+![](./2021-12-01_20-28.png)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/khanhthk/tranvandan/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Sau khi crack xong có thể chọn dòng số 2 (Create Activation Renewal Setup) để tự renew active mỗi 6 tháng
