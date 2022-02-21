@@ -6,11 +6,15 @@
 
 ![](./2022-02-21_11-00.png)
 
-### Vào folder All-In-One-Version vừa giải nén xong
+### Vào folder All-In-One-Version vừa giải nén xong. Phải chuột vào file `.cmd` chọn Run as administrator để chạy file Crack
 
-![](./2021-12-01_20-23.png)
+![](./2022-02-21_11-03.png)
 
-### Chạy file `.cmd` để crack win. Nếu win 10,11 thì có thể chọn dòng 2 (HWID Activation). Các win còn lại chọn dòng 4 (KMS Activation) 
+### Nếu windows 10, windows 11 thì có thể chọn dòng 1 (HWID Activation) để active win vĩnh viễn. 
+
+
+
+### Các win còn lại (windows server 2008, 2012, 2016, 2019,...) thì chọn dòng 2 hoặc dòng 3 
 
 ![](./2021-12-01_20-26.png) 
 
