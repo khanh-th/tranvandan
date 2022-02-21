@@ -14,7 +14,6 @@
 ### Các win còn lại (windows server 2008, 2012, 2016, 2019...) thì chọn dòng 2 hoặc dòng 3 
 
 ![](./2022-02-21_11-08.png)
-
 ![](./2021-12-01_20-26.png) 
 
 ### Chọn dòng 1 để crack win. 
