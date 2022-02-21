@@ -4,7 +4,7 @@
 
 [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts/releases/download/1.5/MAS_1.5_Password_1234.7z)
 
-![](./2021-12-01_20-19.png)
+![](./2022-02-21_11-00.png)
 
 ### Vào folder All-In-One-Version vừa giải nén xong
 
