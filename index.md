@@ -16,8 +16,10 @@
 
 ![](./2021-12-01_20-26.png) 
 
-### Chọn dòng 1 (Active -Windows /Server /Office) để crack win
+### Chọn dòng 1 để crack win. 
 
-![](./2021-12-01_20-28.png)
+![](./2022-02-21_11-12.png)
 
-### Sau khi crack xong có thể chọn dòng số 2 (Create Activation Renewal Setup) để tự renew active mỗi 6 tháng
+### Sau đó chờ 1 lúc để tool chạy là xong. 
+
+![](./2022-02-21_11-12_1.png)
