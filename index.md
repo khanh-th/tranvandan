@@ -10,7 +10,8 @@
 
 ![](./2022-02-21_11-03.png)
 
-### Nếu windows 10, windows 11 thì có thể chọn dòng 1 (HWID Activation) để active win vĩnh viễn. Các win còn lại (windows server 2008, 2012, 2016, 2019,...) thì chọn dòng 2 hoặc dòng 3 
+### Nếu windows 10, windows 11 thì có thể chọn dòng 1 (HWID Activation) để active win vĩnh viễn. 
+### Các win còn lại (windows server 2008, 2012, 2016, 2019...) thì chọn dòng 2 hoặc dòng 3 
 
 ![](./2022-02-21_11-08.png)
 
