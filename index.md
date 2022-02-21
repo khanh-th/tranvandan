@@ -2,7 +2,7 @@
 
 ### Tải file crack về và giải nén với mật khẩu là `1234`
 
-[Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts/releases/download/1.4/MAS_1.4_Password_1234.7z)
+[Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts/releases/download/1.5/MAS_1.5_Password_1234.7z)
 
 ![](./2021-12-01_20-19.png)
 
